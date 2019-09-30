@@ -1,5 +1,6 @@
 # myMovies
-A LAMP application to maintain your watch list
+A LAMP application to maintain your movie watch list.
+Made as part of assignment Demo 2 in CS252.
 
 # HOW TO RUN
 - First run the sql file set_up_database.sql which will set up your database.
