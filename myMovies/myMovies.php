@@ -214,9 +214,9 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 						        </p>
 						        <div class="post-meta">
 
-						        <form action="delete.php" method="post">
+						        <form action="addToWatch.php" method="post">
 						        	<input type="hidden" name="movieID" value="'.$row["movieID"].'">
-						        	<input type="submit" value="Delete">
+						        	<input type="submit" value="Add To Watch List">
 						        </form>
 
 						        </div>
